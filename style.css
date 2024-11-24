@@ -22,5 +22,16 @@
 .to-do-app h2{
     color: #002765;
     display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.to-do-app img{
+    width: 30px;
+    margin-left: 10px;
+}
+.row{
+    display: flex;
+    align-items: flex;
+    
 
 }
